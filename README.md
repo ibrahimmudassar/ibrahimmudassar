@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Computer Science
 - 🌱 I’m currently learning ... Scalable Personal Projects
 - 💞️ I’m looking to collaborate on ... Cloud Computing & Machine Learning
-- 📫 How to reach me ...
+- 📫 How to reach me ... Twitter DM
 
 <!---
 ibrahimmudassar/ibrahimmudassar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
